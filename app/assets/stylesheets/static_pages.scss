@@ -20,7 +20,6 @@ body {
 	width: 100%;
 	height: 60px;
 	background-color: #101010
-	float: left;
 }
 .container {
 	width: auto;
@@ -36,15 +35,6 @@ body {
 .img-responsive {
 	padding-top: 5em;
 	padding-left: 42em;
-}
-.index:hover {
-  background-color: #3f5e8c;
-}
-.about:hover {
-  background-color: #AC92A6;
-}
-.contact:hover {
-  background-color: #2ba49c;
 }
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.co
